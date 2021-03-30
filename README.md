@@ -1,7 +1,7 @@
 # MOSUINO PEN HOLDER
  
 ## Catia note
-    - Change compass size: http://www.coe.org/p/fo/et/thread=23706
+ - Change compass size: http://www.coe.org/p/fo/et/thread=23706
         <em>I edited the (env.txt) Environment file and added the following values:
             - CATWidthMMOfScreen= 340           (Screen width value un millimeters => measured on your screen)
             - CATHeightMMOfScreen= 200          (screen height value in millimeters => measured on your screen)
